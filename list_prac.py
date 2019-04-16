@@ -34,6 +34,7 @@ for e in range_list:
 #filter by Strings
 
 # Method--->1
+# Method--->1
 list_str=[e for e in list_num if isinstance(e, str)]
 print(list_str)
 
